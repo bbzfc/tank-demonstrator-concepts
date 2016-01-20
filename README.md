@@ -6,3 +6,7 @@ of the project [bbzfc](https://github.com/bbzfc/bbzfc).
 ## List of concepts
 
 1. [Tank concept 001](001/Readme.md)
+
+## License
+
+All 3D concepts are licensed under **The MIT License (MIT)**. Please see [LICENSE](LICENSE).
